@@ -1,0 +1,169 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <div class="sidebar">
+            <a href="file:///C:/Users/olive/Documents/VS%20Code/Mytube/mcsr%20v11.html"class="clickable-logo"> 
+                <img src="images/ender eye.png" alt="Logo" class="logo">
+            </a>
+            <a href="file:///C:/Users/olive/Documents/VS%20Code/Mytube/mcsr%20v11.html">Home</a>
+            <a href="file:///C:/Users/olive/Documents/VS%20Code/Mytube/mscr%20resources%20v8.html">Resources</a>
+            <a href="file:///C:/Users/olive/Documents/VS%20Code/Mytube/mcsr%20wr%20history%20v1">History</a>
+            <a href="file:///C:/Users/olive/Documents/VS%20Code/Mytube/Meta.html">Meta</a>
+        </div>
+        <div class="topbar">
+            <h1>World Record Timeline</h1>
+        </div>
+            <div class="timeline">
+                <div class="event">
+                    <div class="tl content">
+                    <h4>Ogmoe- 1h 31m 41s 950ms</h4>
+                    <p></p>
+                    <small>27-06-2020</small>
+                    </div>
+                </div>
+                <div class="event">
+                    <div class="tl content">
+                    <h4>Realbenex- 24m 32s 340ms</h4>
+                    <p>Record time improved by 1h 07m 09s 610ms.</p>
+                    <small>27-06-2020</small>
+                    </div>
+                </div>
+                 <div class="event">
+                    <div class="tl content">
+                    <h4>NiceTwice- 21m 08s 800ms</h4>
+                    <p>Record time improved by 3m 23s 540ms.</p>
+                    <small>04-07-2020 (7 days later)</small>
+                    </div>
+                </div>
+                <div class="event">
+                    <div class="tl content">
+                    <h4>TheeSizzler- 19m 41s 533ms</h4>
+                    <p>Record time improved by 1m 27s 267ms.</p>
+                    <small>09-08-2020 (1 month, 6 days later)</small>
+                    </div>
+                </div>
+                <div class="event">
+                    <div class="tl content">
+                    <h4>Dimeax- 19m 37s 233ms</h4>
+                    <p>Record time improved by 0m 04s 300ms.</p>
+                    <small>10-09-20 (1 month, 2 days later)</small>
+                    </div>
+                </div>
+                <div class="event">
+                    <div class="tl content">
+                    <h4>Dimeax improved his time to 17m 26s </h4>
+                    <p>Record time improved by 2m 12s 233ms.</p>
+                    <small>20-09-2020 (10 days later)</small>
+                    </div>
+                </div>
+                 <div class="event">
+                    <div class="tl content">
+                    <h4>Korbanoes 14m 56s 800ms</h4>
+                    <p>Record time improved by 2m 29s 200ms.</p>
+                    <small>30-9-2020 (10 days later)</small>
+                    </div>
+                </div>
+                <div class="event">
+                    <div class="tl content">
+                    <h4>Couriway- 14m 36s 500ms</h4>
+                    <p>Record time improved by 0m 20s 300ms.</p>
+                    <small>04-11-2020 (1 month, 5 days later)</small>
+                    </div>
+                </div>
+                <div class="event">
+                    <div class="tl content">
+                    <h4>Reignex- 14m 07s</h4>
+                    <p>Record time improved by 0m 29s 500ms.</p>
+                    <small>31-01-2021 (2 months, 28 days later)</small>
+                    </div>
+                </div>
+                <div class="event">
+                    <div class="tl content">
+                    <h4>Illumina- 13m 53s</h4>
+                    <p>Record time improved by 0m 14s.</p>
+                    <small>23-02-2021 (23 days later)</small>
+                    </div>
+                </div>
+                <div class="event">
+                    <div class="tl content">
+                    <h4>TwoLetterName- 12m 09s 817ms</h4>
+                    <p>Record time improved by 1m 43s 183ms.</p>
+                    <small>27-02-2021 (4 days later)</small>
+                    </div>
+                </div>
+                <div class="event">
+                    <div class="tl content">
+                    <h4>Fe666- 11m 50s 967ms</h4>
+                    <p>Record time improved by 0m 18s 850ms.</p>
+                    <small>17-03-2021 (18 days later)</small>
+                    </div>
+                </div>
+                <div class="event">
+                    <div class="tl content">
+                    <h4>TheeSizzler- 11m 07s</h4>
+                    <p>Record time improved by 0m 43s 967ms.</p>
+                    <small>21-03-2021 (4 days later)</small>
+                    </div>
+                </div>
+                <div class="event">
+                    <div class="tl content">
+                    <h4>Brentilda- 9m 36s</h4>
+                    <p>Record time improved by 1m 31s .</p>
+                    <small>"Brentilda day", 20-04-2021 (1 month later)</small>
+                    </div>
+                </div>
+                <div class="event">
+                    <div class="tl content">
+                    <h4>Cube1337x- 9m 08s 820ms</h4>
+                    <p>Record time improved by 0m 27s 180ms.</p>
+                    <small>24-01-2022 (9 months, 9 days later)</small>
+                    </div>
+                </div>
+                <div class="event">
+                    <div class="tl content">
+                    <h4>Sagi_enderman- 8m 36s 658ms</h4>
+                    <p>Record time improved by 0m 32s 162ms.</p>
+                    <small>31-07-2022 (6 months, 8 days later)</small>
+                    </div>
+                </div>
+                <div class="event">
+                    <div class="tl content">
+                    <h4>Doogile- 8m 15s 537ms</h4>
+                    <p>Record time improved by 0m 21s 121ms.</p>
+                    <small>07-11-2022 (3 months, 9 days later)</small>
+                    </div>
+                </div>
+                <div class="event">
+                    <div class="tl content">
+                    <h4>Zylenox- 7m 45s 828ms</h4>
+                    <p>Record time improved by 0m 29s 709ms.</p>
+                    <small>09-02-2023 (3 months, 4 days later)</small>
+                    </div>
+                </div>
+                <div class="event">
+                    <div class="tl content">
+                    <h4>NoFear1337- 7m 26s 254ms</h4>
+                    <p>Record time improved by 0m 19s 574ms.</p>
+                    <small>09-12-2023 (10 months, 3 days later)</small>
+                    </div>
+                </div>
+                <div class="event">
+                    <div class="tl content">
+                    <h4>Drip120- 7m 01s 494ms</h4>
+                    <p>Record time improved by 0m 24s 760ms.</p>
+                    <small>04-01-2024 (26 days)</small>
+                    </div>
+                </div>
+                <div class="content">
+                    <p>Drip's record has been standing for over 500 days now, this is the second longest standing world record 
+                       second to Tarokitchen who held the record for 5 WHOLE YEARS. In the last few weeks or so, there have been 
+                       dozens speedruns on pace to beat drip but all of them fell short. No doubt, the record will be 
+                       beaten soon, my predictions for who beats it and achieves the first sub-7 speedrun in random seed history are: 
+                       Jay12310, Skycrab, Priffin, Jason_n or Airpodsz.
+                    </p>
+                </div>
+            </div>
+    </body>
+</html>

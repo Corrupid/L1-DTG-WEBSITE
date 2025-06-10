@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <div class="sidebar">
+            <a href="file:///C:/Users/olive/Documents/VS%20Code/Mytube/mcsr%20v11.html"class="clickable-logo"> 
+                <img src="images/ender eye.png" alt="Logo" class="logo">
+            </a>
+            <a href="file:///C:/Users/olive/Documents/VS%20Code/Mytube/mcsr%20v11.html">Home</a>
+            <a href="file:///C:/Users/olive/Documents/VS%20Code/Mytube/mscr%20resources%20v8.html">Resources</a>
+            <a href="file:///C:/Users/olive/Documents/VS%20Code/Mytube/mcsr%20wr%20history%20v1">History</a>
+            <a href="file:///C:/Users/olive/Documents/VS%20Code/Mytube/Meta.html">Meta</a>
+        </div>
+        <div class="topbar">
+            <h1>History</h1>
+        </div>
+        <div class="content">
+            <div class="fancy-link"
+                <p>
+                   <a href="file:///C:/Users/olive/Documents/VS%20Code/Mytube/Record%20timeline%20v1" class="link">World Record Timeline</a>
+                </p>
+            </div>
+         </div>
+    </body>
+</html>
