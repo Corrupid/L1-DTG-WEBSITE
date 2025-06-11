@@ -1,0 +1,92 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <div class="sidebar">
+            <a href="file:///C:/Users/olive/Documents/VS%20Code/Mytube/mcsr%20v11.html"class="clickable-logo"> 
+                <img src="images/ender eye.png" alt="Logo" class="logo">
+            </a>
+            <a href="file:///C:/Users/olive/Documents/VS%20Code/Mytube/mcsr%20v11.html">Home</a>
+            <a href="file:///C:/Users/olive/Documents/VS%20Code/Mytube/mscr%20resources%20v8.html">Resources</a>
+            <a href="file:///C:/Users/olive/Documents/VS%20Code/Mytube/mcsr%20wr%20history%20v1">History</a>
+            <a href="file:///C:/Users/olive/Documents/VS%20Code/Mytube/Meta.html">Meta</a>
+        </div>
+        <div class="topbar">
+            <h1>Zero Cycle</h1>
+        </div>
+        <div class="content">
+            <p>
+                this is WAY harder than onecycle, but it can be used to get consistantly sub minute end fight times. the main 
+                reason zerocycling is hard is the fact that there are many setups, orientations, rotations, and hights that you have to 
+                memorise to pull it off. The way it works is pretty complicated, when you spawn into the end, the ender dragon will choose 
+                a node to circle around, there are four different nodes:
+            </p>
+                <img src="images/Screenshot 2025-06-11 150153.png" alt="dragon node comparison">
+        <ul>
+            <li>
+                Front Diagonal, this is the front right tower, its considered to be the easiest of all the locations because of how fast you 
+                can get there.
+            </li>
+            <li>
+                Back diagonal, this is the back left tower, its slighty harder than front diagonal because it will usually need an extra
+                ender pearl to get to the tower due to it being on the other side of the island. This means that its harder to go for a 
+                higher y level resulting in a slower time.
+            </li>
+            <li>
+                Front straight, this is not like the diagonal setups, for straight the dragon will circle further from the tower, this
+                means you will have to quickly bridge over to make the setup to kill the dragon.  
+            </li>
+            <li>
+                Back straight, this is basically the same as front straight except you have to bridge off the back tower.
+            </li>
+            <p>In the end, there are ten obsidian towers, all of them are different heights and widths, so they will need differnt setups for 
+                each, here are the names and y level of every tower (smallest to biggest):
+            </p>
+        </ul>
+        <ul>
+            <li>Small boy, y76</li>
+            <li>Small cage, y83</li>
+            <li>M85, y85</li>
+            <li>Large cage, y86</li>
+            <li>M88, y88</li>
+            <li>M91, y91</li>
+            <li>T94, y94</li>
+            <li>T97, y97</li>
+            <li>T100, y100</li>
+            <li>Tall boy, y103</li>
+        </ul>
+            <p>
+                When doing zero cycles its important to know the possible heights for each tower, most of the hights are standardised so its 
+                not hard to learn:
+            </p>
+            <ul>
+                Diagonal:
+                <li>86/87</li>
+                <li>90/91</li>
+                <li>94/95</li>
+                <li>99/100</li>
+                <li>103/104</li>
+                <li>108(VERY hard)</li>
+            </ul>
+            <ul>
+                Straight:
+                <li>86</li>
+                <li>88</li>
+                <li>91</li>
+                <li>93</li>
+                <li>95</li>
+                <li>97</li>
+                <li>99</li>
+                <li>101</li>
+                <li>103</li>
+                <li>106(VERY hard)</li>
+            </ul>
+            <p>
+                Keep in mind that all this is very base level info, if you are keen to learn, I would recomend getting a proper video tutorial 
+                with examples as it will be easier than learning from text. This isnt something you master in an hour, this will take a good
+                amount of practice to get right.
+            </p>
+         </div>
+    </body>
+</html>
